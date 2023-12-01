@@ -1,9 +1,9 @@
 Oi! Eu sou o Felype Dutra.
 
 
-- 🔭 Atualmente somente estudo.
-- 🌱 Estudo HTML, CSS, JavaScript.
-- 📫 Entre em contato comigo dutrafellype@gmail.com.
+- 🔭 Estudando e trabalho.
+- 🌱 Atualmente me aprofundando em Java.
+- 📫 Entre em contato comigo dutrapro02@gmail.com.
 
 
 
