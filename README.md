@@ -6,9 +6,6 @@ Oi! Eu sou o Felype Dutra.
 - 📫 Entre em contato comigo dutrafellype@gmail.com.
 
 
-![FelypeDutra GitHub stats](https://github-readme-stats.vercel.app/api?username=felpdutra&show_icons=true&theme=dracula)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felpdutra)](https://github.com/felpdutra/github-readme-stats)
-
-
 
 
 <div> 
